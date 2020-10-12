@@ -1,0 +1,23 @@
+{
+    "login":"S'identifier",
+    "welcome":"Bienvenue dans l'application de démonstration iCrypto OIDC.",
+    "app":"Application de démonstration iCrypto OIDC",
+    "or":"OU",
+    "acc":"Vous n'avez pas encore de compte?",
+    "reg":"S'inscrire",
+    "home":"Accueil",
+    "store":"Boutique",
+    "iframe":"Connexion Iframe",
+    "alogin":"Connexion API",
+    "nlogin":"Connexion NZ",
+    "nLogout":"Déconnexion NZ",
+    "logwith":"CONNECTEZ-VOUS AVEC",
+    "direct":"DIRECTE",
+    "showtoken":"Afficher le jeton et les réclamations",
+    "creds":"Gestionnaire d'informations d'identification",
+    "inputcreds":"Entrez vos identifiants",
+    "forgotPass":"Mot de passe oublié",
+    "signin":"se connecter",
+    "uname":"Nom d'utilisateur",
+    "pass":"Mot de passe"
+}

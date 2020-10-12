@@ -1,0 +1,24 @@
+{
+    "login":"Login",
+    "welcome":"Welcome to the iCrypto OIDC Demo application.",
+    "app":"iCrypto OIDC Demo App",
+    "or":"OR",
+    "acc":"Do not have an account yet?",
+    "reg":"Register",
+    "home":"Home",
+    "store":"Store",
+    "iframe":"Iframe Login",
+    "alogin":"API Login",
+    "nlogin":"NZ Login",
+    "nLogout":"NZ Logout",
+    "logwith":"LOGIN WITH",
+    "direct":"DIRECT",
+    "showtoken":"Show Token and Claims",
+    "creds":"Credential Manager",
+    "inputcreds":"Enter your credentials",
+    "forgotPass":"Forgot Password",
+    "signin":"Sign in",
+    "uname":"Username",
+    "pass":"Password"
+
+}
